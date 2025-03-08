@@ -32,12 +32,27 @@ The dataset includes the following key columns:
 - `Company` (Amazon, Flipkart, Myntra)
 - `Total Revenue`
 - `Total Orders`
+- `Order ID`
+- `Date`
+- `Category`
+- `Product	Price	`
+- `Discount`
+- `Final Price`
 - `Quantity Sold`
-- `Rating Average`
-- `Order by Age Category`
-- `Order by Return Status`
-- `Order by Category`
-- `Revenue Trends by Year`
+- `Payment Method`
+- `Customer Age Group`
+- `Customer Location`
+- `Delivery Time (Days)`
+- `Rating`
+- `Return Status`
+- `Revenue`
+- `Product Company`
+- `Customer ID`
+- `Customer Name`
+- `Review`
+- `Age Category`
+- `Year`
+
 
 ---
 
