@@ -35,7 +35,8 @@ The dataset includes the following key columns:
 - `Order ID`
 - `Date`
 - `Category`
-- `Product	Price	`
+- `Product`
+- `Price	`
 - `Discount`
 - `Final Price`
 - `Quantity Sold`
