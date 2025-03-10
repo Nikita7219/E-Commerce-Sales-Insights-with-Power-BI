@@ -1,6 +1,6 @@
 # 📊 Ecommerce Sales Insights with Power BI
 
-**DATA PREPROCESSING NOTEBOOK FILE** : (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7889584889414593/1697194651660228/8728560223304930/latest.html)
+**DATA PREPROCESSING NOTEBOOK FILE** : [Click Here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7889584889414593/1697194651660228/8728560223304930/latest.html)
 
 ## 📌 Project Overview
 This project focuses on analyzing and visualizing e-commerce sales data from **Amazon, Flipkart, and Myntra** using **Power BI**. To handle large-scale data efficiently, **Databricks PySpark** was used for preprocessing before visualization. The dashboard provides insights into total revenue, order distribution, sales trends, and customer behavior.
